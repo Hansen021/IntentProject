@@ -238,8 +238,10 @@ Maka langsung saja kita buka `activity_main.xml`, dan buat code seperti berikut 
 </RelativeLayout>
 ```
 - Maka tampilannya akan seperti ini :
-  
-![WhatsApp Image 2023-11-19 at 19 11 46_b9d46af7](https://github.com/syifaaurellia/IntentProject/assets/115867244/1a9966db-3b54-40f0-a574-6140caeff726)
+
+  ![Screenshot 2023-11-23 192723](https://github.com/Hansen021/IntentProject/assets/129939171/8f2fa90a-6be2-432b-b1bd-3042519ffc9c)
+
+
 
 - Setelah itu kita buka `MainActivity.java` untuk menambahkan code intent untuk masing-masing tombol :
 ```
