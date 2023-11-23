@@ -1,11 +1,11 @@
 # IntentProject
 
 
-Nama : Hansen Julio
+Nama      : Hansen Julio
 
-NIM : 312210523
+NIM       : 312210523
 
-Kelas : TI.22.A5
+Kelas     : TI.22.A5
 
 Mata Kuliah : Pemrograman Mobile 
 
